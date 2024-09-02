@@ -1,1 +1,1 @@
-String baseUrl = 'https://apotek.meedev.tech';
+String baseUrl = 'https://api-apotek.appku.fun/';
